@@ -35,7 +35,7 @@
     "electron-packager": "^14.2.1",
     "jquery": "^3.5.1",
     "js-sha512": "^0.8.0",
-    "marked": "^0.8.2",
+    "marked": "^4.0.10",
     "ngx-cookie-service": "^3.0.4",
     "popper": "^1.0.1",
     "popper.js": "^1.16.1",
